@@ -13,7 +13,7 @@
   </ul>
  </ul>
  
-<h3>Funções</h3>
+<h3>Funções:</h3>
 <ul>
   <li>Login no instagram do usuario</li>
   <li>Acessar a pagina de um usuario pré definido</li>
