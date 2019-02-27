@@ -1,5 +1,5 @@
 <h1>Instagram bot</h1>
-<p>Tecnologias usadas:</p>
+<h3>Tecnologias usadas:</h3>
 <ul>
   <li>Api:</li>
   <ul>
