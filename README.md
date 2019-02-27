@@ -5,6 +5,7 @@
   <ul>
     <li>Express JS</li>
     <li>Mongo DB</li>
+    <li>Node JS</li>
   </ul>
   <li>Bot:</li>
   <ul>
