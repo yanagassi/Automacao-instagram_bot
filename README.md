@@ -18,10 +18,11 @@
 <ul>
   <li>Login no instagram do usuario</li>
   <li>Acessar a pagina de um usuario pré definido</li>
-  <li>Interações</li>
+  <li>Interações:</li>
   <ul>
     <li>Seguir o usuario</li>
     <li>Curtiro ultimo post do usuario</li>
     <li>Salvar no banco todas as ações feitas anteriormente</li>
   </ul>
  </ul>
+ 
